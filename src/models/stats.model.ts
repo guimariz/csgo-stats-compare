@@ -1,5 +1,5 @@
 export default class Stats {
-  nome: string;
+  name: string;
   kd: number;
   rating: number;
 
